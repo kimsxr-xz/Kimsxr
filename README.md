@@ -1,1 +1,27 @@
-# Kimsxr
+[
+
+  {
+
+    "name": "Kimsxr.ssr ィ",
+
+    "facebook": "https://www.facebook.com/kimsxr.sensery.2025",
+
+    "permission": "FOUNDER",
+
+    "image": ""
+
+  },
+
+  {
+
+    "name": "test",
+
+    "facebook": "https://www.facebook.com/bangtlez.avt",
+
+    "permission": "member",
+
+    "image": ""
+
+  }
+
+]
